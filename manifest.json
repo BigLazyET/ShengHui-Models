@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "kind": "model",
+  "id": "moss-transcribe-diarize-0.9b-8bit",
+  "revision": "7210aef739be6b9e068fba9b1d60369ec053655b",
+  "publisherModel": "vanch007/mlx-MOSS-Transcribe-Diarize-8bit",
+  "license": "Apache-2.0",
+  "totalBytes": 1269855425,
+  "files": [
+    {
+      "path": "added_tokens.json",
+      "bytes": 707,
+      "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+    },
+    {
+      "path": "config.json",
+      "bytes": 2543,
+      "sha256": "9c94b3ce7403222c462a2851f39a205aa14456eb6c550156721152a3f12ae797"
+    },
+    {
+      "path": "generation_config.json",
+      "bytes": 107,
+      "sha256": "e53a4b3ce4f944230cf1ca8fed0c42f4ff0d8c1443eaf98b5315d987334dd9e4"
+    },
+    {
+      "path": "model.safetensors",
+      "bytes": 1258427152,
+      "sha256": "a7ed3c83a357347472ea35f7266c916c15a59b6700c5f4e861db532743fe7c86"
+    },
+    {
+      "path": "preprocessor_config.json",
+      "bytes": 315,
+      "sha256": "ba2e601484abc80f4cded977f9a4fd4a53175b7d35c2f2511f0cfc3a32ad2499"
+    },
+    {
+      "path": "processor_config.json",
+      "bytes": 292,
+      "sha256": "a978c2dd54a65b576c3dae4b654fe9bcbac1184c6db2df0afb2c90fcdc872ae7"
+    },
+    {
+      "path": "special_tokens_map.json",
+      "bytes": 613,
+      "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+    },
+    {
+      "path": "tokenizer.json",
+      "bytes": 11423222,
+      "sha256": "bcf03774334462d6e34b5005cb11120a62275f146ee2953e68731ecdbce84fbb"
+    },
+    {
+      "path": "tokenizer_config.json",
+      "bytes": 474,
+      "sha256": "e1be11414f6b66d01085411aead0704662fd9515ed30d7c509e1474755c76144"
+    }
+  ],
+  "repository": "BigLazyET/ShengHui-Models",
+  "releaseTag": "moss-0.9b-8bit-7210aef"
+}
