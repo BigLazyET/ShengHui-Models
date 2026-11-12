@@ -5,5 +5,5 @@ MLX 8-bit conversion: vanch007
 Published model: https://huggingface.co/vanch007/mlx-MOSS-Transcribe-Diarize-8bit
 Pinned revision: 7210aef739be6b9e068fba9b1d60369ec053655b
 License declared by original project and converted model: Apache-2.0
-This distribution mirrors the nine selected runtime files without changing their bytes.
+The nine selected runtime files are the published conversion, with bytes unchanged. This repository records their checksums and does not ship the weight files.
 No user video, recording, transcript, or private application source is included.
